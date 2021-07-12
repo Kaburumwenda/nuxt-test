@@ -1,0 +1,23 @@
+[
+  {
+    "name": "modalpg",
+    "path": "/modalpg",
+    "component": "/home/unknown/Projects/Cracker/yus/demo1/pages/modalpg.vue",
+    "chunkName": "pages/modalpg",
+    "_name": "_c7ac36d2"
+  },
+  {
+    "name": "staff",
+    "path": "/staff",
+    "component": "/home/unknown/Projects/Cracker/yus/demo1/pages/staff.vue",
+    "chunkName": "pages/staff",
+    "_name": "_ad6d3a5a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/unknown/Projects/Cracker/yus/demo1/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0d517fc5"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/modal.js": "components/modal.js",
+    "components/nuxt-logo.js": "components/nuxt-logo.js",
+    "components/tutorial.js": "components/tutorial.js",
+    "pages/index.js": "pages/index.js",
+    "pages/modalpg.js": "pages/modalpg.js",
+    "pages/staff.js": "pages/staff.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/modal.js": "components/modal.js.map",
+    "components/nuxt-logo.js": "components/nuxt-logo.js.map",
+    "components/tutorial.js": "components/tutorial.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/modalpg.js": "pages/modalpg.js.map",
+    "pages/staff.js": "pages/staff.js.map",
+    "server.js": "server.js.map"
+  }
+}
